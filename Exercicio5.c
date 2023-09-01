@@ -19,6 +19,7 @@ main(){
 
     } else if (numero > 500 && numero < 1000) {
         printf("O numero esta entre 500 e 1000");
+        
     } else {
         printf("O numero nao obedece as condicoes, tente novamente");
     }
